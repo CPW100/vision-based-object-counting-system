@@ -1,1 +1,0 @@
-start cmd.exe /k tensorboard --logdir=D:/Program_Files/VisualStudio2019/streamlit_project/streamlit_user_directory/apple/training/Faster-RCNN-ResNet-50_apple_model_1

@@ -7,6 +7,3 @@ for users to train and evaluate custom object detection models which will be dep
 count value, and provide feedback to correct the count accuracy of models, and finally, Node-RED for incoming data management and model performance visualization.
 
 ## Video Demo
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8xbkUEwIY_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-

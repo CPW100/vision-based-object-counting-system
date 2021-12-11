@@ -6,4 +6,4 @@ object counting application. The framework is constructed with three online plat
 for users to train and evaluate custom object detection models which will be deployed into TensorFlow server to save cost. Next, Telegram allows users to upload image data, obtain
 count value, and provide feedback to correct the count accuracy of models, and finally, Node-RED for incoming data management and model performance visualization.
 
-## Video Demo
+For more info, please click the **README** file.
